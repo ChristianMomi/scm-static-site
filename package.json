@@ -1,0 +1,11 @@
+{
+  "name": "scm-static-site",
+  "version": "1.0.0",
+  "description": "Module 12",
+  "scripts": {
+    "lint": "eslint script.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
