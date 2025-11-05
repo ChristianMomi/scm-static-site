@@ -13,3 +13,7 @@
     I asked how to make the website look simple for a beginner and not too professional.
 
     I requested advice on how to structure the project folder and what to submit to my teacher.
+
+I need to create an eye-catching visual effect that runs when my website loads. It should be interesting and unique. What's a good way to do this with JavaScript? Should I use canvas or DOM elements? How can I make it performant?"
+
+How can I create a GitHub Actions workflow that runs linting first, then tests, and only deploys if both pass? What's the YAML syntax?
